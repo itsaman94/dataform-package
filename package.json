@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@dataform/core": "1.11.0"
+  },
+  "name": "dataform-package",
+  "description": "Use this as the base when creating a new package.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsaman94/dataform-package.git"
+  },
+  "keywords": [
+    "dataform",
+    "package"
+  ],
+  "author": "AmandeepSingh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsaman94/dataform-package/issues"
+  },
+  "homepage": "https://github.com/itsaman94/dataform-package#readme"
+}
